@@ -1,0 +1,1 @@
+This project is showcasing the beginning skillset of HTML. Basic use of the Terminal is used to create new directories, files, and connect to GitHub. Hopefully it goes well!
